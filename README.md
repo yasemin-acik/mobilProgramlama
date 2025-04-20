@@ -1,0 +1,3 @@
+# Cilt Bakım Uygulaması
+
+Bu cilt bakım uygulaması, kullanıcıların cilt tiplerine uygun kişisel bakım rutinleri oluşturmalarına ve ihtiyaçlarına göre makyaj önerileri almalarına yardımcı olmak amacıyla geliştirilmiştir. Uygulama, kullanıcıdan aldığı verilerle cilt analizi yaparak kuru, yağlı, karma gibi cilt tiplerini belirler ve buna özel bakım önerileri sunar. Ayrıca, kullanıcıya uygun makyaj teknikleri ve ürün tavsiyeleriyle güzellik rutinini destekler. Kullanıcı dostu arayüzü sayesinde kolay bir kullanım deneyimi sunan bir uygulamadır.
